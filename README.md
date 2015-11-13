@@ -10,6 +10,7 @@ Directory Scan: python extractxor.py -d c:\folder_name
 Verbose: python extractxor.py -f image.jpeg -v
 
 Directory Scan + Max Filesize: python extractxor.py -d c:\folder_name -s 1024
+
 -Max filesize applies to directory scan only.
 
 test_extractxor.py Usage:
