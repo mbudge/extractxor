@@ -1,5 +1,5 @@
 # extractxor
-Extract obfuscated executables from files.
+Extract obfuscated executables from files/images.
 
 Usage:
 
