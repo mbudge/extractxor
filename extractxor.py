@@ -10,6 +10,8 @@ import time
 #The script xor's each byte in a file with an xor key. 
 #It then searches for executable files which have been embedded.
 #The script currently runs through 256 xor keys.
+#The script looks for the position of the PE optional header before extracting the executable. 
+#The PE optional header is not optional and starts with 'PE'
 
 def main():
 
