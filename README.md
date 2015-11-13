@@ -21,7 +21,9 @@ python test_extractxor.py
 First edit the file before running the script.
 
 XOR_KEY = 1 - Set the xor key to a value between 1 and 256.
+
 IMAGE_FILE = 'FILENAME.jpg' - Set the image filename or filepath.
+
 EXECUTABLE_FILE = 'FILENAME.exe' - Set the executable filename or filepath.
 
 The output file is called 'image_with_exe.jpg'
